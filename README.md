@@ -1,0 +1,1 @@
+Napisz program obliczający sumę cyfr wprowadzonej z klawiatury liczby. Wynik wyświetl na konsoli.
